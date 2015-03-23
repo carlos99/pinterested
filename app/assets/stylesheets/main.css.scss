@@ -2,10 +2,33 @@
 	text-align: center;
 }
 
+.main-pins-container{
+	background: #181818;
+}
+
 .panel-footer{
 	height: 55px;
 }
 
 .edit-profile-footer{
 	height: 200px;
+}
+
+#pins{
+	margin: 0 auto;
+}
+
+.box{
+	margin:5px;
+	width:214px;
+}
+
+.box img{
+	width:100%;
+}
+
+.main-pins-panel{
+	  border-color: #fff !important;
+	  border-radius: 0 !important;
+	  border: 1px solid #fff !important;
 }
