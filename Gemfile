@@ -15,7 +15,7 @@ gem 'rails_12factor', '~> 0.0.3'
 gem 'bootstrap-sass', '~> 3.3.4.1'
 gem 'devise', '~> 3.4.1'
 gem 'paperclip', '~> 4.2.1'
-gem 'aws-sdk', '~> 2.0.31'
+gem 'aws-sdk', '~> 1.59.1'
 
 
 group :development, :test do
