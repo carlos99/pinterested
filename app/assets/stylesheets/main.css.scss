@@ -44,6 +44,15 @@
 	border-radius: 0 !important;
 }
 
+.container .jumbotron, .container-fluid .jumbotron {
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}
+
+.jumbotron {
+  padding: 18px 0 !important;
+}
+
 .about-us-content{
 	background: #181818;
 	color: #fff;
