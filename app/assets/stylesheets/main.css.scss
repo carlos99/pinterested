@@ -2,9 +2,10 @@
 	text-align: center;
 }
 
-.main-pins-container{
-	background: #181818;
-}
+.pins-page-main{
+ 	background: #181818;
+ 	padding: 1px;
+ }
 
 .panel-footer{
 	height: 55px;
@@ -34,7 +35,8 @@
 }
 
 .jumbotron{
-	margin-top:25px;
+
+	border-radius: 0 !important;
 }
 
 .about-us-content{
