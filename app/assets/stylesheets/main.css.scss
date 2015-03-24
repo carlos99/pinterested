@@ -1,3 +1,8 @@
+.pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus, .pagination > .active > span, .pagination > .active > span:hover, .pagination > .active > span:focus{
+	background-color: #cb2027 !important;
+  	border-color: #cb2027 !important;
+}
+
 .center{
 	text-align: center;
 }
@@ -40,5 +45,6 @@
 }
 
 .about-us-content{
+	background: #181818;
 	color: #fff;
 }
